@@ -1,6 +1,6 @@
-# Music Player App
+# Music Streaming Platform
 
-A web-based music player built with **Django**, supporting image display and audio playback. This app demonstrates media file handling, pagination, and dynamic content rendering with templates.
+A web-based music streaming platform built with **Django**, supporting image display and audio playback. This app demonstrates media file handling, pagination, and dynamic content rendering with templates.
 
 ---
 
